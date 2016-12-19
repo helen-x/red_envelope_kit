@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Boke2</string>
+    <string name="description">由于微信每个版本都会出现不同的id，我们必须更改寻找控件的id实现点击事件</string>
+    <string name="label">微信6.3.30版自动抢红包</string>
+</resources>
